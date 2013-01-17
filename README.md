@@ -47,3 +47,5 @@ Right now, you can do:
 	myProject.working.files.src['index.js'];
 		//"var x = 'asdf';"
 ```
+
+Obviously, merge is on the todo list :)
