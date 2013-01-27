@@ -1,9 +1,9 @@
 source
 ======
 
-What does version control look like in the browser?
+"Git is fundamentally a content-addressable filesystem with a VCS user interface written on top of it." - [Pro Git](http://git-scm.com/book)
 
-This is more a thought experiment, seeing how source control might look in a browser. Exploring my understanding of how git works by implementing some of the features.
+This isn't a clone of Git, but I'm exploring some of its functionality. Particularly I'm interested in the role that source control can play as filesystem in situations where the importance of an actual filesystem is secondary.
 
 Right now, you can do:
 
